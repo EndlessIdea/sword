@@ -1,0 +1,10 @@
+[alias]
+	ad = add .
+	cm = commit -m
+	co = checkout
+	cob = checkout -b
+	fc = fetch
+	st = status
+	pl = pull
+	ps = push
+	br = branch
