@@ -1,3 +1,5 @@
+brew install pkg-config
+
 brew search php
 brew install php@7.3
 brew install php@7.2

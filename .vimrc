@@ -1,6 +1,8 @@
 set nu
 syntax on
 colorscheme murphy
+set hls
+set incsearch
 
 let mapleader=','
 inoremap <leader>w <Esc>:w<cr>
